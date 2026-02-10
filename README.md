@@ -7,10 +7,18 @@ Welcome everyone to open source.
 * 熊一哈's GitHub stats: 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromexiong&langs_count=8" />
+    <picture>
+      <source
+        srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeromexiong&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeromexiong&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeromexiong&show_icons=true" />
+    </picture>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeromexiong&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" /></a>
 
 
 * Welcome everyone to my personal [blog](https://jeromexiong.github.io)
